@@ -1,3 +1,4 @@
 # SpeedTest
 Host Speed Test
-*by:* [World Team](https://t.me/worldtm)
+<br>
+<b>by:</b> [World Team](https://t.me/worldtm)
